@@ -1,0 +1,11 @@
+python-divecomputer : Python Scuba Dive Computer Interface Library
+------------------------------------------------------------------
+
+Author: Jonathan Krauss
+E-Mail: jkrauss@asymworks.com
+
+This code is released under a BSD license.
+
+DEPENDENCIES
+------------
+python-irda
